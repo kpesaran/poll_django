@@ -1,6 +1,5 @@
 # code copied from https://djangowaves.com/tips-tricks/gitignore-for-a-django-project/
 
-admin
 
 # Django #
 *.log
